@@ -1,4 +1,4 @@
-# Digit Classification using Convolutional Neural Networks
+# Hand Digit Classification using Convolutional Neural Networks
 
 This notebook demonstrates the process of building and training a Convolutional Neural Network (CNN) to classify handwritten digits from the MNIST dataset.
 
